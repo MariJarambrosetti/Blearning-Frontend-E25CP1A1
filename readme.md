@@ -2,8 +2,7 @@
 <a href="http://desafiolatam.com"><img src="http://blog.desafiolatam.com/wp-content/uploads/2015/03/logo_latam_mini.png" width="100" style="float:right"></a>
 
 ## Link de la web
-
-
+<http://186.64.118.50/~feg7mariana>
 
 # Actividad Presencial 1 de Wordpress 3.
 
